@@ -1,6 +1,6 @@
 # letMeAskp
 
------- INTRODUÇÃO ------
+ INTRODUÇÃO 
 
 O projeto Let Me Ask foi desenvolvido durante a Next Level Week (NLW) da empresa de ensino de tecnologia Rocket Seat, para aprofundar os conhecimentos na tecnologia React JS,
 e Firebase.
@@ -9,7 +9,7 @@ A premissa central do projeto é criar uma sala com perguntas e respostas que po
 a influenciadores digitais e/ou professores, ou qualquer outra pessoa que esteja lidando com um grande público, e precisa atender diversas perguntas durante uma 
 apresentação/live/evento.
 
---------- DETALHES DO FUNCIONAMENTO ------------
+ DETALHES DO FUNCIONAMENTO 
 
  * As perguntas também podem receber "likes", o que vai indicar ao administrador da sala quais perguntas são mais pertinentes.
 
@@ -20,7 +20,7 @@ apresentação/live/evento.
  * O admin pode excluir uma pergunta.
 
 
---------- INTERFACE ------------------
+ INTERFACE 
 
 O projeto consiste em 4 telas principais sendo elas:
 
@@ -36,8 +36,7 @@ Real Time Database
 
 
 
-
--------- TECNOLOGIAS UTILIZADAS ---------------
+TECNOLOGIAS UTILIZADAS 
 
 * gerenciamento de pacotes Yarn
 
