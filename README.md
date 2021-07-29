@@ -2,7 +2,7 @@
 
  INTRODUÇÃO 
 
-O projeto Let Me Ask foi desenvolvido durante a Next Level Week (NLW) da empresa de ensino de tecnologia Rocket Seat, para aprofundar os conhecimentos na tecnologia React JS,
+O projeto **Let Me Ask** foi desenvolvido durante a Next Level Week (NLW) da empresa de ensino de tecnologia Rocket Seat, para aprofundar os conhecimentos na tecnologia React JS,
 e Firebase.
 
 A premissa central do projeto é criar uma sala com perguntas e respostas que podem ser monitoradas em tempo real pelo administrador da sala. Sua finalidade, é atender
