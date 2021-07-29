@@ -6,8 +6,8 @@ O projeto Let Me Ask foi desenvolvido durante a Next Level Week (NLW) da empresa
 e Firebase.
 
 A premissa central do projeto é criar uma sala com perguntas e respostas que podem ser monitoradas em tempo real pelo administrador da sala. Sua finalidade, é atender
- influenciadores digitais, professores, ou qualquer outra pessoa que esteja lidando com um grande público, e precisa atender diversas perguntas durante uma 
-apresentação/live/evento.
+ influenciadores digitais, professores, ou qualquer outra pessoa que esteja lidando com um grande público, e precisa responder diversas perguntas durante uma 
+ apresentação/_live_/evento.
 
  DETALHES DO FUNCIONAMENTO 
 
