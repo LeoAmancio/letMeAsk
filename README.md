@@ -1,5 +1,9 @@
 # letMeAsk
 
+
+
+Para acessar o projeeto:  https://letmeask-fe19a.web.app/
+
  INTRODUÇÃO 
 
 O projeto **Let Me Ask** foi desenvolvido durante a Next Level Week (NLW) da empresa de ensino de tecnologia Rocket Seat, para aprofundar os conhecimentos na tecnologia React JS,
